@@ -1,0 +1,2 @@
+# cam
+reconocimiento de cámara
